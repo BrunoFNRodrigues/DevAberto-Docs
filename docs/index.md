@@ -11,3 +11,6 @@ O site utilizado para os dados foi: http://gameinformer.com/reviews.
 * ## [Análise de Dados](dados.md)
 
 * ## [Scraper](scraper.md)
+
+# Link do Repositório:
+https://github.com/BrunoFNRodrigues/DevAberto-Docs.git
