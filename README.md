@@ -1,4 +1,4 @@
-# Projeto3-TechWeb
+# Web Crawler
 ## Autores: Bruno Freitas do Nascimento Rodrigues e Keiya Nishio
 ## Introdução
 Documentação para a análise de dados e para modificação do scraper.<br>
